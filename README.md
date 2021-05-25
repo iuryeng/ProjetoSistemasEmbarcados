@@ -7,7 +7,7 @@ A idéia essencial de um dispositivo controlador de temperatura é medir e ajust
 Os sistemas embarcados têm se tornado cada vez mais utilizados como controladores de temperatura além de serem capazes de oferecer maior eficiência, baixo consumo energético e uma maior acessibilidade econômica. 
 
 Esses sistemas possuem dispositivos de processamento e atuadores capazes de controlar processos e medir  parâmetros que podem  interferir na eficiência de aquecimento.  
-Dessa forma, é possível processar dados de leitura da temperatura a partir de um sensor,  compará-la com uma valor de referência e atuar no ajuste necessário. 
+Dessa forma, é possível processar dados de leitura da temperatura e compará-la com uma valor de referência e atuar no ajuste necessário. 
 A técnica de controle PID (Proporcional, Integral e Derivativo) é uma das técnicas de controle mais utilizadas e pode ser implementada via lógica computacional em um sistema embarcado. O controle PID consiste em estabilizar um valor específico a partir de uma variável de interesse ou ponto de referência. A partir desse tipo de controle é possível responder a um tipo de variação da temperatura por meio de uma correção significativa associada ao erro calculado entre a interação sistema/meio físico e o valor de referência ou set point.
 
 ### Como usar este projeto 
