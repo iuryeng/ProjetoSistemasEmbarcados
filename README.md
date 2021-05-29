@@ -5,8 +5,7 @@ Equipe: Victor Perone e Iury Coelho
 
 ### Propósito
 
-O controle da temperatura feito de maneira adequada é indispensável para uma melhor eficiência em divção de cerveja, etc. 
-A idéia essencial de um dispositivo controlador de temperatura é medir e ajustar a temperatura através da experimentação e correção.  Uma solução viável para este tipo de problema é o uso de sistemas embarcados. 
+O controle da temperatura feito de maneira adequada é indispensável para uma melhor eficiência em processos que utilizam a temperatura como parâmetro. A idéia essencial de um dispositivo controlador de temperatura é medir e ajustar a temperatura através da experimentação e correção.  Uma solução viável para este tipo de problema é o uso de sistemas embarcados. 
 Os sistemas embarcados têm se tornado cada vez mais utilizados como controladores de temperatura além de serem capazes de oferecer maior eficiência, baixo consumo energético e uma maior acessibilidade econômica. 
 
 Esses sistemas possuem dispositivos de processamento e atuadores capazes de controlar processos e medir  parâmetros que podem  interferir na eficiência de aquecimento.  
