@@ -19,3 +19,4 @@ A técnica de controle PID (Proporcional, Integral e Derivativo) é uma das téc
 - 3. compile o firmware no Atmega328p
 - 4. vizualise o controle da temperatura do aquecedor na simulação
 
+para ver a demonstração acesse o link do youtube: https://www.youtube.com/watch?v=kBlJRyW9vv4
