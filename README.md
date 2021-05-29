@@ -1,6 +1,7 @@
 # ProjetoSistemasEmbarcados - Controle de temperatuda com PID e Atmega328p 
 repositório destinado ao projeto de sistemas embarcados. 
 
+Equipe: Victor Perone e Iury Coelho
 
 ### Propósito
 
